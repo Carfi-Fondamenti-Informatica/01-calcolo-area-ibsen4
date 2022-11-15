@@ -8,5 +8,4 @@ cout<< a*b/2 << endl;
 cout<< 4*a << endl;
 cout<< (a+b)*2 << endl;
 cout<< (a+b)*c/2 <<endl;
-return 0
 }
