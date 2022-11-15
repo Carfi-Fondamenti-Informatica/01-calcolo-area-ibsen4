@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-float a=0.0, b=0.0, c=0.0;
+float a, b, c;
 cin >> a >> b >> c;
 cout<< a*b/2 << endl;
 cout<< 4*a << endl;
