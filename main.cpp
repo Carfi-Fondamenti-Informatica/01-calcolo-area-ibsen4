@@ -2,13 +2,13 @@
 using namespace std;
 
 int main(){
-float a, b, c;
+float a=0, b=0, c=0;
 
-cin >> a=0 >> b=0 >> c=0;
+cin >> a >> b >> c;
 
 cout<< a*b/2 << endl;
-cout<< 4*a << endl;
-cout<< (a+b)*2 << endl;
+cout<< a*a << endl;
+cout<< a*b << endl;
 cout<< (a+b)*c/2;
 
 }
